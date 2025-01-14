@@ -240,7 +240,6 @@ setup(**{
             ">=2.6",
             "!=3.0.*",
             "!=3.1.*",
-            "<3.13",
         ]),
     "setup_requires":
         setup_requires,
